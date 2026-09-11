@@ -1,0 +1,15 @@
+node_modules
+dist
+dist-ssr
+
+# Local env files — never commit real credentials
+.env
+.env.local
+.env.*.local
+
+*.log
+npm-debug.log*
+.DS_Store
+.vite
+tsconfig.*.tsbuildinfo
+*.tsbuildinfo
